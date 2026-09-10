@@ -1,0 +1,254 @@
+Title,Keywords,Result,Method,Material,ResearchProblem,RQ
+A Comparative Study of Competency Question Elicitation Methods from Ontology Requirements,"Knowledge engineering
+Competency questions
+Large Language Models",A comparative analysis of different competency question elicitation methods from ontology requirements.,Comparative study likely involving evaluation or analysis of various competency question elicitation methods.,Ontology requirements as the primary data for eliciting competency questions; AskCQ dataset.,"Identifying and comparing methods to effectively elicit competency questions from ontology requirements, addressing a gap in how these methods perform or differ.",How do different methods for eliciting competency questions from ontology requirements compare in effectiveness?
+A Graph-based RAG system for Enhanced Information Gathering in Local Newsrooms,"knowledge graph
+retrieval augmented generation
+journalistic knowledge processing
+newsroom innovation
+RAG evaluation",A graph-based Retrieval Augmented Generation (RAG) system that enhances information gathering in local newsrooms.,Design and implementation of a graph-based RAG system integrating knowledge graph techniques for journalistic knowledge processing.,"Local newsroom data incorporating journalistic knowledge, potentially including news articles and knowledge graphs (specific datasets not specified).",Improving the process of information gathering in local newsrooms by addressing limitations in current systems via enhanced retrieval and knowledge processing.,How can a graph-based RAG system improve information gathering processes in local newsrooms?
+A Linked Open Data Service and Semantic Portal to Study the Assembly Minutes and Prosopography of the League of Nations (1920–1946),"knowledge graph
+digital humanities
+information retrieval
+data analysis",A Linked Open Data service and semantic portal focused on the Assembly Minutes and Prosopography of the League of Nations (1920--1946),Use of Linked Open Data technologies and semantic web methodologies to create the portal and data conversion into RDF,Assembly Minutes and prosopographical data of the League of Nations from 1920 to 1946,"Lack of integrated semantic tools and linked open data services to study the Assembly Minutes and prosopography of the League of Nations, specifically around data conversion, data schema, named entity linking, and enrichment",How can Linked Open Data and semantic portals be utilized to study the Assembly Minutes and prosopography of the League of Nations?
+A Wikidata-based Workflow for Entity Reconciliation Strategies Evaluation: A Study on Early Modern Polish Personal Names,"Wikidata
+Linked Data
+Entity Reconcilation
+SPARQL",A Wikidata-based workflow for evaluating entity reconciliation strategies applied to early modern Polish personal names,"Evaluation study involving entity reconciliation strategies using a Wikidata-based workflow, likely with the implementation of SPARQL queries",Early modern Polish personal names data and Wikidata as the linked data resource,Lack of effective workflows and evaluation of entity reconciliation strategies for early modern Polish personal names,How effective are Wikidata-based workflows in evaluating entity reconciliation strategies for early modern Polish personal names?
+Advancing NL2SPARQL via Agentic Workflow Design and Dynamic URI Grounding,"Question Answering
+Knowledge Graphs
+NL2SPARQL
+Agent
+Large Language Models
+Scalability
+Semantic Parsing",Advancements in NL2SPARQL through agentic workflow design and dynamic URI grounding,Agentic workflow design and dynamic URI grounding techniques applied to enhance natural language to SPARQL translation,Scholarly knowledge graph (DBLP-QuAD),"Improving the scalability and accuracy of natural language question answering over knowledge graphs via NL2SPARQL, addressing challenges in semantic parsing and dynamic URI grounding",How can agentic workflow design and dynamic URI grounding improve NL2SPARQL for question answering over knowledge graphs?
+AgentO: An Ontology for Modeling Agentic AI Systems,"Ontology
+Agentic AI
+LLMs
+Knowledge Graph","AgentO, an ontology for modeling agentic AI systems",Ontology development for representing agentic AI systems,"Ontology for agentic systems, SPARQL-accessible KG and an LLM-based extraction pipeline",The need for a structured ontology to represent agentic AI systems effectively,How can an ontology be designed to model agentic AI systems?
+An Ecosystem of Knowledge Graph-based Web Services for Greenhouse Gas Assessment,"Sustainability
+GHG assessments
+Carbon footprint
+Life cycle assessment
+Knowledge Graph
+Knowledge Management",An ecosystem of Knowledge Graph-based web services designed for Greenhouse Gas (GHG) assessment.,Development and integration of Knowledge Graph-based web services for conducting GHG assessments.,"Knowledge Graphs and web services related to GHG assessment, carbon footprint, and life cycle assessment.",The need for an integrated and knowledge-driven approach to assess Greenhouse Gas emissions effectively.,How can Knowledge Graph-based web services be utilized to improve Greenhouse Gas assessment?
+Are a Thousand Words Better Than a Single Picture? Beyond Images – A Framework for Multi-Modal Knowledge Graph Dataset Enrichment,"Multi-modal Knowledge Graphs
+Link Prediction
+Image-to-Text
+Dataset Enrichment
+Entity Representation",A framework for multi-modal knowledge graph dataset enrichment that goes beyond using single images by incorporating multiple modalities.,Development of a framework integrating image-to-text techniques and link prediction for enriching knowledge graph datasets with multi-modal data.,Multi-modal knowledge graph datasets including images and textual data.,"Current knowledge graph datasets are limited in enrichment because they primarily rely on single images, lacking multi-modal integration for improved entity representation and link prediction.",Are multiple words/texts better than a single picture for knowledge graph dataset enrichment and entity representation?
+ArtKB: A Multimodal Art Knowledge Base for Cultural Heritage,"Knowledge Graph
+Cultural Heritage
+Information Extraction
+Semantic Interoperability","ArtKB, a multimodal art knowledge base for cultural heritage, an access to the kb and its services",Information extraction techniques to build the knowledge base with semantic interoperability,Art-related multimodal data for cultural heritage,Lack of a comprehensive multimodal knowledge base for cultural heritage art with semantic interoperability,How to construct a multimodal art knowledge base that supports semantic interoperability for cultural heritage?
+Bench4KE: Benchmarking Automated Competency Question Generation,"Benchmark
+Knowledge Engineering
+Competency Questions
+Large Language Models","Bench4KE, a benchmark for automated Competency Question Generation",Benchmarking automated competency question generation using large language models,Bench4KE benchmark datasets,Lack of benchmarking standards for automated competency question generation in knowledge engineering,How to effectively benchmark automated competency question generation?
+BOLD: A Simulation Framework for Dynamic Linked Data Environments and a Benchmark for Linked Data User Agents,"Linked Data
+Server
+Dynamics",BOLD: A Simulation Framework for Dynamic Linked Data Environments and a Benchmark for Linked Data User Agents,Simulation framework development and benchmarking for Linked Data User Agents,"A Framework for Simulating Dynamic Linked Data Environments, and an associated benchmark for Linked Data User Agents",Lack of simulation frameworks and benchmarks for dynamic Linked Data environments and Linked Data User Agents,How to design a simulation framework and benchmark that effectively represent dynamic Linked Data environments to evaluate Linked Data User Agents?
+Bounded Descriptions for Knowledge Graph Traversal by Language Models,"Bounded description
+RDF knowledge graphs
+N-ary relations
+SPARQL
+Linked Data",Concept and application of bounded descriptions to enable effective knowledge graph traversal by language models,"Use of bounded descriptions in RDF knowledge graphs for traversal, potentially involving SPARQL queries and handling N-ary relations","RDF knowledge graphs, including Linked Data with N-ary relations","Challenges of knowledge graph traversal by language models, especially handling complex RDF structures and efficiently traversing Linked Data",How can bounded descriptions be used to improve knowledge graph traversal by language models?
+CANDI - A Semantic Framework for CAN bus Data Modeling and System Integration,"Ontology Engineering
+OBDA Framework
+CAN Bus
+DBC Decoding
+Data Security
+Deployment Automation
+Real-time Analytics","CANDI, a semantic framework for CAN bus data modeling and system integration",Ontology engineering and OBDA framework,"CAN bus data including DBC decoding, real-time analytics data","Lack of a semantic framework enabling integrated modeling and deployment automation for CAN bus data, addressing data security and real-time analytics needs",
+Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling,"Cultural Heritage
+Knowledge Graphs
+Digital Storytelling
+Retrieval-Augmented Generation
+Competency Questions",A Controlled Retrieval-Augmented Generation (RAG) architecture that uses competency questions as executable plans for cultural heritage storytelling,Design and implementation of a controlled RAG architecture integrating competency questions as executable plans,Cultural heritage knowledge graphs and digital storytelling datasets,Lack of controlled architectures that leverage competency questions as executable plans for effective cultural heritage storytelling,How can competency questions be used as executable plans within a controlled RAG architecture to enhance cultural heritage storytelling?
+CONEL: Contrastive Neural Link Discovery Leveraging Literal Similarities,"Knowledge Graphs
+Data Integration
+Linked Data
+Link Discovery","CONEL, a neural link discovery approach leveraging literal similarities for improving linking accuracy in KGs",Contrastive neural learning technique that utilizes literal similarities,Knowledge graphs and linked data datasets,"Effective link discovery in knowledge graphs by leveraging literal similarities, addressing limitations of existing link discovery methods",How can contrastive neural link discovery leveraging literal similarities improve linking accuracy in knowledge graphs?
+Context-Aware Visual Multi-Turn Conversation Generation from Wikipedia and Wikidata,"knowledge graphs
+vision language models
+large language models
+semantic web
+semantic technologies
+generative ai",A system for context-aware visual multi-turn conversation generation leveraging Wikipedia and Wikidata,"Utilization of vision language models together with large language models, integrating knowledge graphs from Wikipedia and Wikidata",Wikipedia and Wikidata knowledge graphs,The challenge of generating coherent multi-turn conversations that are context-aware and grounded in rich semantic information from knowledge graphs such as Wikipedia and Wikidata,How can contextual information from Wikipedia and Wikidata be effectively integrated with vision and language models to generate multi-turn conversations?
+CR-TKGQA: A Temporal Knowledge Graph Question Answering Dataset Involving Complex Reasoning,"Temporal Knowledge Graph Question Answering
+Dataset
+Knowledge Graph","CR-TKGQA, a Temporal Knowledge Graph Question Answering Dataset involving complex reasoning",Development and use of a temporal knowledge graph QA dataset requiring complex reasoning,Temporal Knowledge Graph Question Answering Dataset (CR-TKGQA),Lack of datasets supporting complex reasoning in Temporal Knowledge Graph Question Answering,
+CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models,"Multimodal Knowledge Graphs
+Cultural Heritage
+Knowledge
+Access","CUBE-MT, a cultural benchmark for multimodal knowledge graph construction using generative models",Use of generative models for constructing multimodal knowledge graphs,Cultural data used to create the multimodal benchmark CUBE-MT,Lack of cultural benchmarks for evaluating multimodal knowledge graph construction methods,How can generative models be used to construct multimodal knowledge graphs in the cultural domain?
+Document-level Relation Extraction using Reinforcement Learning with Knowledge Graph Feedback,"Document level Relation Extraction
+Reinforcement learning
+Knowledge Graphs",A method for document-level relation extraction that leverages reinforcement learning with feedback from knowledge graphs.,Reinforcement learning combined with knowledge graph feedback for relation extraction at the document level.,,"Improving document-level relation extraction by effectively incorporating feedback from knowledge graphs, addressing challenges in extracting inter-sentence relations.",How can reinforcement learning with knowledge graph feedback be used to enhance document-level relation extraction?
+Energy Domain Ontology Matching with Large Language Model,"Ontology Matching
+Large Language Models
+Energy Domain",An ontology matching approach for the energy domain using large language models,Using large language models for ontology matching,Ontologies from the energy domain,Lack of effective ontology matching techniques specifically tailored for the energy domain,Can large language models improve ontology matching in the energy domain?
+EthereumKG: Building a Knowledge Graph of the Ethereum Blockchain,"Semantic web
+Knowledge Graph
+Ontologies
+Ethereum
+Blockchain","EthereumKG, a knowledge graph of the Ethereum blockchain",Building a knowledge graph using semantic web technologies and ontologies,Ethereum blockchain data,Lack of a structured knowledge graph representation of the Ethereum blockchain,How to build a knowledge graph for the Ethereum blockchain?
+Evaluating Knowledge Graph Construction from Text Without Supervision,"Knowledge Graph Creation
+Unsupervised Evaluation
+Automatic graph construction",Evaluation approach for knowledge graph construction from text without supervision,Unsupervised evaluation techniques for automatic knowledge graph construction from text,Text corpora used for automatic knowledge graph construction (specific datasets not mentioned),Lack of supervision in evaluating knowledge graph construction methods from text,How to evaluate knowledge graph construction from text without using supervision?
+"Explainable Validation of Data Sharing Agreements using DPV, SHACL, and Human-in-the-Loop Review","Data Sharing Agreements
+Data Privacy Vocabulary
+SHACL Validation
+Human-in-the-Loop
+Explainable-by-Design Ontologies","An explainable validation approach for data sharing agreements using the Data Privacy Vocabulary (DPV), SHACL validation, and a human-in-the-loop review process","Combining DPV ontology, SHACL validation techniques, and human-in-the-loop review to achieve explainable validation of data sharing agreements","Data sharing agreements and supporting ontologies such as DPV, along with SHACL validation rules and a framework for human-in-the-loop review",Lack of explainable and effective validation methods for data sharing agreements that integrate privacy vocabularies and human oversight,"How can data sharing agreements be validated in an explainable manner by leveraging DPV, SHACL, and human-in-the-loop review?"
+Explaining Scientific Hypotheses in Drug Development with Knowledge Graphs,"Biomedical Knowledge Graphs
+Explainable Artificial Intelligence
+Drug Development","Researchers prefer explanations integrating ontological information and presenting diverse, biologically plausible mechanisms over those based solely on structural connectivity","Using knowledge graphs combined with explainable artificial intelligence techniques, evaluated via a user study with eleven biomedical researchers, the two tasks (drug repurposing and drug-target interaction), the three evaluation criteria (relevance, completeness, validity), and the mixed quantitative-qualitative analysis",KG-based state-of-the-art methods compared and the user study with eleven biomedical experts,Lack of understanding of which factors drive usefulness and trustworthiness of KG-based explanations,How can knowledge graphs be used to explain scientific hypotheses in drug development using two comparative dimensions: single vs. multiple explanatory paths; with vs. without ontological information?
+Federated Personal Knowledge Graph Completion with Lightweight Large Language Models for Personalized Recommendations,"Knowledge Graph
+Federated Learning
+Knowledge Graph Completion
+Personal Knowledge Graph
+Kahneman-Tversky Optimization
+Fine-Tuning
+Large Language Model",A federated personal knowledge graph completion approach using lightweight large language models aimed at improving personalized recommendations.,"Federated learning combined with knowledge graph completion techniques and fine-tuning of large language models, incorporating Kahneman-Tversky optimization.","Personal knowledge graphs and large language models, likely involving datasets related to personalized recommendation scenarios.","The challenge of completing personal knowledge graphs in a federated setting using lightweight large language models to enhance personalized recommendation performance, addressing issues in privacy, scalability, and model efficiency.",How can lightweight large language models be utilized in a federated learning framework to effectively complete personal knowledge graphs for personalized recommendations?
+From RDF Graph Validation to RDF Dataset Validation with SHACL-DS,"Knowledge Graphs
+RDF Dataset Validation
+SHACL","Extension of RDF graph validation to RDF dataset validation using SHACL-DS, SHACL extension, an algorithm, and a prototype",Development and application of SHACL-DS for RDF dataset validation,SHACL-DS as validation schema,Current RDF validation focuses on RDF graphs but lacks mechanisms for validating RDF datasets; a gap exists in dataset-level validation using SHACL,How can RDF graph validation be extended to RDF dataset validation using SHACL-DS?
+Fully Geometric Multi-Hop Reasoning on Knowledge Graphs With Transitive Relations,"Query Answering
+Knowledge Graph Embedding
+Geometric Embeddings
+Neuro-Symbolic AI",A method for fully geometric multi-hop reasoning on knowledge graphs with transitive relations,Geometric embeddings and neuro-symbolic AI techniques applied to knowledge graph embedding and query answering,"Knowledge graphs with transitive relations, used for multi-hop query answering","The challenge of performing fully geometric multi-hop reasoning on knowledge graphs, particularly dealing with transitive relations",How can fully geometric multi-hop reasoning be achieved on knowledge graphs with transitive relations?
+HERTy-Wiki: A Benchmark for Hierarchical Entity Reasoning and Typing,"Knowledge Graph Entity Typing
+Hierarchical Reasoning
+Large Language Models
+Wikidata","HERTy-Wiki, a benchmark for hierarchical entity reasoning and typing",Development and evaluation of a benchmark to assess hierarchical entity reasoning and typing using large language models,"HERTy-Wiki, a human-verified Wikidata benchmark for hierarchical entity reasoning and typing.","The challenge of accurately performing hierarchical entity reasoning and typing in knowledge graphs, with a gap in existing benchmarks for evaluating such tasks",Can LLMs reliably perform hierarchical reasoning for knowledge graph entity typing from limited contextual evidence?
+Integrating Meta-Features with Knowledge Graph Embeddings for Meta-Learning,"Knowledge graph embeddings
+Knowledge graph construction
+Meta-learning",The method generalizes pipeline performance estimation with a single pipeline-agnostic meta-model and improves over baselines for dataset performance-based similarity estimation.,Integration of meta-features with knowledge graph embeddings for meta-learning,"(1) a knowledge graph representing machine learning experiment data, (2) meta-models for predicting machine learning pipeline performance, and (3) a large-scale benchmark of machine learning pipeline performance. ",The challenge of enhancing meta-learning by combining meta-features with knowledge graph embeddings.,To what extent can knowledge graph embeddings over past OpenML experiment data improve pipeline performance estimation and dataset performance-based similarity estimation beyond conventional meta-feature-based representations?
+Interpretable Context-Aware Models Improve Expert Validation in Ontology Matching,"Ontology Matching
+Ontology Alignment
+Language Models
+User Validation",Interpretable context-aware models improve expert validation in ontology matching,Use of interpretable context-aware models and language models for ontology matching,Ontology matching system and user validation processes,Improving expert validation in ontology matching by enhancing interpretability and context-awareness in models,Can interpretable context-aware models improve expert validation in ontology matching?
+Knowledge-Enhanced Multimodal Retrieval over Cultural Heritage Knowledge Graphs,"Information Retrieval
+Cultural Heritage
+Multimodal
+CLIP
+Large Language Model
+Text2SPARQL
+Knowledge Graph",Knowledge-enhanced multimodal retrieval system over cultural heritage knowledge graphs,"Use of CLIP, Large Language Models, and Text2SPARQL for multimodal retrieval",Cultural heritage knowledge graphs,Lack of effective multimodal retrieval methods over cultural heritage knowledge graphs,How to enhance multimodal retrieval over cultural heritage knowledge graphs using knowledge-enhanced approaches and large language models?
+Link Prediction or Perdition: the Seeds of Instability in Knowledge Graph Embeddings,"Random Seeds
+Machine Learning
+Knowledge Graph Completion",Insights into the impact of random seeds on the stability of knowledge graph embedding models for link prediction tasks,Analysis of the effect of random seeds on knowledge graph embeddings in machine learning models,Knowledge graph datasets used for link prediction and knowledge graph completion,Instability in knowledge graph embeddings caused by the use of random seeds in link prediction tasks,How do random seeds influence the stability and performance of knowledge graph embedding models in link prediction and completion?
+LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain,"Knowledge Graphs
+Large Language Models
+Data Integration
+Space Industry",LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain,Utilization of Large Language Models (LLMs) for semantic data integration,Data related to electronic component qualifications in the aerospace domain,Integration of electronic component qualification data using semantic methods in the aerospace domain,How can large language models enhance semantic data integration of electronic component qualifications in the aerospace domain?
+Mapping Change: A Temporal and Semantic Knowledge Base of Scottish Gazetteers,"Gazetteers
+Knowledge Graph
+Semantic Web
+Historical Texts
+Ontology
+Linked Data
+Cultural Heritage
+Geolocation",A temporal and semantic knowledge base of Scottish gazetteers,Construction and mapping of a knowledge base using semantic web technologies and ontology for linked data integration,A temporal and semantic knowledge base of Scottish gazetteers,Lack of a temporal and semantic knowledge base integrating Scottish gazetteers for cultural heritage and geolocation purposes,How can a temporal and semantic knowledge base be created to effectively map and represent Scottish gazetteers?
+NeuroSymbolic Stream Reasoning with Kolibrie,"Database
+SPARQL
+Stream Reasoning
+Neuro-symbolic AI
+Machine Learning",NeuroSymbolic Stream Reasoning system called Kolibrie,Combining neuro-symbolic AI and stream reasoning techniques,SPARQL queries and stream data in a database context,Lack of approaches combining neuro-symbolic AI with stream reasoning for efficient real-time query answering,How can neuro-symbolic AI techniques be integrated with stream reasoning to improve querying over streaming data?
+No Need to Be a Know-It-All: Fact Checking with Shallow Knowledge,"Fact checking
+Web mining
+Shallow knowledge
+Open Information extraction
+Information extraction
+Knowledge graphs",A fact checking approach that utilizes shallow knowledge in addition to knowledge graphs,Fact checking using unstructured data without an explicit ontology derived from Open Information Extraction and Knowledge Graphs.,Data obtained through web mining and Open Information Extraction techniques.,"The need to perform fact checking without requiring extensive or deep prior knowledge, addressing limitations in relying on comprehensive knowledge bases.",Is shallow knowledge is useful at all?
+ODRL Policy Comparison by Normalisation,"policy
+normalisation
+comparison
+digital rights
+semantic equivalence
+permission
+prohibition
+ODRL",A method for ODRL policy comparison by normalisation to identify semantic equivalence of permissions and prohibitions in digital rights policies.,Normalisation-based policy comparison approach focusing on semantic equivalence assessment.,"ODRL policies related to digital rights, including permissions and prohibitions.",Difficulty in comparing ODRL policies due to syntactic differences and need for normalisation to establish equivalence.,How can ODRL policies be compared effectively by normalising them to identify semantic equivalence?
+Ontology Population Using LLMs: Which Factors Matter?,"Ontology Population
+Ontology Learning
+Ontology Engineering
+Large Language Model
+LLM Prompting",Insights on which factors matter in ontology population using large language models (LLMs).,Empirical investigation or analysis involving LLM prompting strategies to understand their effect on ontology population.,Ontology data and LLM prompting settings used to populate ontologies.,"Identifying the relevant factors that influence the effectiveness of ontology population using large language models, addressing a gap in understanding the impact of different factors on ontology learning and engineering.",Which factors matter in ontology population when using large language models (LLMs)?
+Ontology-Mediated Framework for Generating Answerable Questions and Feedback from Ontologies,"Ontology-Driven Content Generation
+Ontology-Based Question Generation
+Ontology-Based Feedback Generation
+Natural Language Processing for semantic sources",An ontology-mediated framework for generating answerable questions and corresponding feedback from ontologies,Development and implementation of a framework using ontology-driven content generation combined with natural language processing techniques for semantic sources,Ontologies as semantic sources used for question and feedback generation,Lack of frameworks that leverage ontologies effectively to generate answerable questions and feedback automatically from semantic sources,How can ontologies be used to mediate the automatic generation of answerable questions and feedback?
+OntoPFAS: an Ontology for the Forever Chemicals,"ontology
+pfas
+knowledge engineering","OntoPFAS, an ontology for the forever chemicals (PFAS)",Ontology development and knowledge engineering,,"The need for a formal ontology to represent PFAS, the forever chemicals, addressing knowledge representation challenges in this domain",How to design an ontology that effectively captures the concepts and relationships related to PFAS (forever chemicals)?
+Parameter Efficient Continual Automated Knowledge Graph Completion,"Knowledge Graphs
+Link Prediction
+Relation Classification
+Large Language Models
+Continual Learning",Parameter efficient continual automated knowledge graph completion approach,Use of large language models for continual learning applied to knowledge graph completion tasks such as link prediction and relation classification,Knowledge graphs and benchmarks related to link prediction and relation classification,Improving parameter efficiency in continual learning for automated knowledge graph completion,How to achieve parameter efficient continual learning for automated knowledge graph completion?
+Proving Soundness of SPARQL Query Results using Selective Disclosure of RDF Datasets and Zero-Knowledge Proofs,"RDF
+Verifiable Credentials
+SPARQL
+Zero-knowledge Proofs",A method for proving the soundness of SPARQL query results using selective disclosure of RDF datasets combined with zero-knowledge proofs.,Selective disclosure techniques using ZKPs for RDF datasets along with zero-knowledge proof cryptographic methods to verify query results.,RDF datasets used to demonstrate selective disclosure in combination with SPARQL queries; Github: https://github.com/uvdsl/rdf-zkp-sparql,Ensuring the soundness and trustworthiness of SPARQL query results while preserving data privacy and confidentiality.,How can one prove the soundness of SPARQL query results using selective disclosure of RDF datasets combined with zero-knowledge proofs?
+Robust Knowledge Graph Embedding via Denoising,"Knowledge graph embedding
+Robustness
+Denoising
+Randomized smoothing
+Adversarial perturbation
+Link prediction",A robust knowledge graph embedding approach that improves resilience against adversarial perturbations via denoising and randomized smoothing techniques.,The proposed method applies denoising and randomized smoothing to knowledge graph embedding models to enhance robustness against adversarial perturbations.,"Knowledge graphs used for link prediction tasks, potentially including standard benchmarks for evaluating knowledge graph embeddings.","Knowledge graph embeddings are vulnerable to adversarial perturbations, requiring more robust methods to improve reliability and performance under adversarial conditions.",How can knowledge graph embeddings be made more robust against adversarial perturbations through denoising and randomized smoothing?
+Semantics-Aware Caching for Concept Learning,"Concept learning
+Description logics
+Instance retrieval
+Caching algorithms
+Neuro-symbolic reasoners","semantics-aware caching algorithm can help to improve the speed of DL reasoners and then, the performance of Concept learning",Development and application of caching algorithms integrated with description logics for neuro-symbolic reasoning systems.,,The need to optimize instance retrieval and concept learning processes in neuro-symbolic reasoners by incorporating semantics-aware caching methods.,How can semantics-aware caching be leveraged to improve concept learning and instance retrieval in neuro-symbolic reasoners?
+SemTS: Ontology and Vocabularies for the Semantic Categorization of Time Series Knowledge,"Ontology
+Vocabulary
+Time Series
+Data Analytics
+Knowledge Graph
+Semantic Web",SemTS: an ontology and vocabularies designed for the semantic categorization of time series knowledge,development of ontology and vocabularies for semantic categorization,time series data knowledge relevant to data analytics and knowledge graphs,lack of effective ontology and vocabularies to semantically categorize time series knowledge,How can time series knowledge be semantically categorized using ontologies and vocabularies?
+"SIDEKICK: A semantically integrated resource for drug effects, indications, and contraindications","Drug Safety
+Knowledge Graph
+Drug Information Dataset","A semantically integrated RDF knowledge graph for drug effects, indications, and contraindications","A workflow to extract, structure, and map drug-related clinical information to standardized biomedical ontologies using LLMs","Drug information datasets related to drug effects, indications, and contraindications","Lack of resources combining drug effects, indications, and contraindications enabling semantic reasoning capabilities and interoperability with Semantic Web ontologies and knowledge graphs","How can drug effects, indications, and contraindications be semantically integrated into a single resource?"
+SPARQLing Datalog for Rule-Based Reasoning over Large Knowledge Graphs,"Datalog
+SPARQL
+Logic Programming
+Rules
+Federation
+Query optimisation",A method for rule-based reasoning over large knowledge graphs by integrating SPARQL and Datalog that enhances query federation and optimisation.,Combining logic programming techniques (Datalog) with SPARQL query mechanisms for rule-based reasoning and query optimisation over federated large knowledge graphs.,"Large knowledge graphs used as the domain for applying rule-based reasoning, with no specific datasets or benchmarks mentioned.","The challenge of performing efficient rule-based reasoning over large knowledge graphs, including query federation and optimisation issues.",
+SQA: SPARQL Query Annotating with Question-Answer Pairs,"SQA
+KBQA
+Semantic Parsing","SQA task, a system for SPARQL query annotating with question-answer pairs, the QuAD method, and the experimental results",Semantic parsing techniques for annotating SPARQL queries with question-answer pairs,"KBQA dataset, and the experimental results",Need for improved annotation of SPARQL queries using question-answer pairs to support semantic parsing and knowledge base question answering,
+Structure is the Signal: Graph Encodings and GNNs for Constraint Repair in Collaborative Knowledge Graphs,"Knowledge Graph Repair
+Neuro-symbolic AI
+Graph Neural Networks",Techniques for constraint violation repair in collaborative knowledge graphs using graph encodings and Graph Neural Networks (GNNs),"Graph-based learning framework combining alternative KG encodings with Graph Neural Networks, including a dual-representation mechanism that derives edge features from node embeddings.","Graph-encoded subgraphs of collaborative knowledge graphs, constructed from historical constraint violations and repair data.",The challenge of repairing constraint violations in collaborative knowledge graphs,"How can different graph encoding strategies and Graph Neural Network architectures, particularly with node-edge representation coupling, be used to improve constraint repair in collaborative knowledge graphs?"
+TIM: Tiered Iterative Knowledge Graph Matching,"Knowledge Graphs
+Data Integration
+Linked Data
+Knowledge Graph Matching",A tiered iterative approach to knowledge graph matching,A tiered iterative methodology for matching knowledge graphs,Knowledge Graph matching datasets,Challenges in knowledge graph matching for data integration and linked data,How can rule based matching improve alignment accuracy through a tiered iterative matching architecture prioritizing high precision matchers?
+Tool4Boxology: A Semantic Toolbox for Constructing and Analyzing Neuro-Symbolic Architectures,"Neuro-symbolic AI
+Design Patterns
+Knowledge Graphs","Tool4Boxology, a semantic toolbox for constructing and analyzing neuro-symbolic architectures",Development and application of semantic tools for neuro-symbolic AI design patterns using knowledge graphs,"Neuro-symbolic AI design patterns and knowledge graphs, SPARQL queries and other tools",Lack of semantic tools to support the construction and analysis of neuro-symbolic AI architectures,How can a semantic toolbox facilitate the construction and analysis of neuro-symbolic architectures?
+Towards a Symbolic Representation of the MEMS Development Domain,"Knowledge Graph
+Industry 4.0
+Smart Manufacturing
+Semantic Data Integration
+Ontology",A semantic ecosystem framework for MEMS development,Semantic data integration using ontology modeling and knowledge graphs,"Knowledge graphs and ontologies related to Industry 4.0, smart manufacturing, and MEMS development",Need for effective symbolic representation and semantic integration of data in MEMS development within the context of Industry 4.0 and smart manufacturing,How can symbolic representation be used to integrate semantic data in MEMS development processes?
+Towards Context-Aware Search: Dynamic Facet Generation in Digital Libraries,"Faceted Search
+Dynamic Facets
+Digital Library
+Academic Search engine
+Knowledge base
+Large Language Model
+Neuro-symbolic AI",Dynamic facet generation approach for context-aware search in digital libraries,Use of Knowledge base and LLM which is together Neuro-Symbolic AI for generating dynamic facets in academic search engines,Digital library datasets and knowledge bases used in academic search engines,"Lack of context-aware, dynamic facet generation techniques in digital libraries to improve faceted search",How can dynamic facets be generated in digital libraries to enable context-aware search?
+"Traqula: Providing a Foundation for The Evolving SPARQL Ecosystem Through Modular Query Parsing, Transformation, and Generation","SPARQL
+query
+algebra
+SPARQL toolchain
+modularity
+parser
+generator","Traqula, a modular system providing a foundation for the evolving SPARQL ecosystem through query parsing, transformation, and generation","Modular query parsing, transformation, and generation techniques for SPARQL queries",SPARQL query algebra and toolchain components,"The need for a modular foundation to support the evolving SPARQL ecosystem, specifically in query parsing, transformation, and generation","How can modularity in query parsing, transformation, and generation support the evolving SPARQL ecosystem?"
+"VRTI Knowledge Graph Explorer: Adoption, Use and Impact","User Interface
+Digital Humanities
+User Uptake","Insights into the adoption, use, and impact of the VRTI Knowledge Graph Explorer",,"Ontology for agentic systems, SPARQL-accessible KG and an  LLM-based extraction pipeline",Understanding user uptake and the impact of the VRTI Knowledge Graph Explorer in digital humanities user interfaces,"How is the VRTI Knowledge Graph Explorer adopted, used, and what is its impact?"
